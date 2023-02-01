@@ -6,9 +6,6 @@ My name in Tanya and I am frontend developer.
   <a href="https://www.linkedin.com/in/tatiana-manakhova/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100007819862200">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
